@@ -10,5 +10,6 @@ modules:  windows / linux   ! python doit être dans le PATH pour utiliser pip!
   pyxel: pip install -U pyxel / sudo pip3 install -U pyxel
   numpy: pip install numpy / sudo pip3 install numpy
   
-  
 installer libsdl2-dev pour installer des modules avec linux
+
+pour lancer l'application python il faut executer le fichier Electron Libre.py
