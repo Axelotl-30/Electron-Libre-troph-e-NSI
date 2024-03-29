@@ -1,0 +1,9 @@
+mininmum requis:
+
+un processeur 32bit, 64bit ou arm-64 
+un processeur graphique intégré
+windows 7, 10 ou 11
+4Go de RAM
+environ 300Ko d'espace disque
+
+
