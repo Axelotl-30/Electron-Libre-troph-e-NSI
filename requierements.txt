@@ -1,9 +1,0 @@
-mininmum requis:
-
-un processeur 32bit, 64bit ou arm-64 avec au moins deux coeurs
-un processeur graphique intégré
-windows 7, 10 ou 11
-4Go de RAM
-environ 300Ko d'espace disque
-
-5Gb d'espace disque en cas d'installation de python 3.11
